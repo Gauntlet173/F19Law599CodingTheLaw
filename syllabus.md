@@ -79,19 +79,19 @@ The project will consist of three parts, which will be evaluated according to th
 
 1. Project Design Specifications (20% of project mark)
 
-The students will be asked to generate a project design specifications document in collaboration with their client organization. This document will be assessed for its professionalism, the degree to which it reflects the needs of the client, the degree to which it considers and addresses relevant professionalism cocnerns, and the degree to which it reflects an undersatnding of the capabilities of the selected technology.
+    The students will be asked to generate a project design specifications document in collaboration with their client organization. This document will be assessed for its professionalism, the degree to which it reflects the needs of the client, the degree to which it considers and addresses relevant professionalism cocnerns, and the degree to which it reflects an undersatnding of the capabilities of the selected technology.
 
-After the specifications are submitted, they will be approved or amended as necessary by the instructor, and the approved or amended specifications will guide the evaluation of the project implementation.
+    After the specifications are submitted, they will be approved or amended as necessary by the instructor, and the approved or amended specifications will guide the evaluation of the project implementation.
 
 
 2. Project Implementation (60% of project mark)
 
-The students will create the actual tool, and publish the source code for that tool to GitHub with a link to a web-accessible demonstration. The tool will be assessed for the degree to which it adheres to best practices discussed in the course, its usability, the degree to which it adheres to the design specifications, correctly implements the capabilities of the technology, and accomplishes the objectives of the project.
+    The students will create the actual tool, and publish the source code for that tool to GitHub with a link to a web-accessible demonstration. The tool will be assessed for the degree to which it adheres to best practices discussed in the course, its usability, the degree to which it adheres to the design specifications, correctly implements the capabilities of the technology, and accomplishes the objectives of the project.
 
 
 3. Project Pitch (20% of project mark)
 
-The students will be asked to give an interactive demonstration and proposal for the adoption of their tool in the client organization.  This presentation will be no longer than 20 minutes.  The presentation will be assessed for its professionalism, the degree to which it anticipates the needs and concerns of the client organization and ultimate users of the tool, and substantively addresses those needs and concerns.
+    The students will be asked to give an interactive demonstration and proposal for the adoption of their tool in the client organization.  This presentation will be no longer than 20 minutes.  The presentation will be assessed for its professionalism, the degree to which it anticipates the needs and concerns of the client organization and ultimate users of the tool, and substantively addresses those needs and concerns.
 
 At the discretion of the instructor, and with the agreement of appropriate representatives of a legal services organization, students may opt to design a tool for a specific organization in the Edmonton region. If they do so, they will be expected to involve that organization in the design of the tool, and will be allowed to have representatives of that organization attend the “pitch”. Students interested in pursuing this option will be required to propose such a project, and obtain the agreement of the organization to participate, by the date of class 6.
 
@@ -123,10 +123,10 @@ Technical Learning:	Assignment 1
 
 Required Reading:
 
-* The Open Source Definition
-* The Montreal Declaration on Open Access to Law
-* How I Changed the Law with a GitHub Pull Request
-* Legal Tech For a Change
+* [The Open Source Definition](https://opensource.org/osd)
+* [The Montreal Declaration on Open Access to Law](https://www.canlii.org/en/info/mtldeclaration.html)
+* [How I Changed the Law with a GitHub Pull Request](https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/)
+* [Legal Tech For a Change](https://www.americanbar.org/news/abanews/aba-news-archives/2019/05/aba-center-for-innovation-and-lsc-launch-legal-tech-donation-eff/)
 
 Discussion Topic: 	Open-Source and Access to Justice  
 Tool Survey: 		Automated Document Generation (Docassemble, HotDocs, WebMerge, etc.)  
@@ -136,22 +136,22 @@ Technical Learning:	Assignment 2
 
 Required Reading: 	
 
-* Innovating Regulation (Chapter II and Chapter VI)
-* The Coming End of Lawyer Control Over Legal Regulation
-* California Bar Seeks Comments on ATILS Report
-* Alberta Law Society's Bid to Modernize Hits Roadblock
+* [Innovating Regulation](https://www.lawsociety.sk.ca/media/127107/INNOVATINGREGULATION.pdf) (Chapter II and Chapter VI)
+* [The Coming End of Lawyer Control Over Legal Regulation](http://www.slaw.ca/2019/02/08/the-coming-end-of-lawyer-control-over-legal-regulation/)
+* [California Bar Seeks Comments on ATILS Report](http://www.calbar.ca.gov/About-Us/Who-We-Are/Committees-Commissions/Task-Force-on-Access-Through-Innovation-of-Legal-Services)
+* [Alberta Law Society's Bid to Modernize Hits Roadblock](https://www.canadianlawyermag.com/resources/professional-regulation/alberta-law-societys-bid-to-modernize-hits-roadblock/275235)
 
 Discussion Topic:	Regulatory Impacts on Legal Innovation  
-Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation as a Platform, Neota Logic, etc.)  
+Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation as a Platform, Neota Logic, DataLex, Blawx, etc.)  
 Technical Learning:	Assignment 3
 
 ### Class 4 - September 27, 2019
 
 Required Reading:
 
-* The Better Rules Landscape
-* NZ Better Rules for Government Discovery Report
-* Utterly Unpersuasive - Formal Methods and Law
+* [The Better Rules Landscape](https://coggle.it/diagram/WyzNllsxfsQ9Wxq_/t/better-rules-landscape?utm_source=transaction&utm_medium=email&utm_campaign=retain)
+* [NZ Better Rules for Government Discovery Report](https://www.digital.govt.nz/assets/Uploads/Better-Rules-for-Government-Discovery-Report.pdf)
+* [Utterly Unpersuasive - Formal Methods and Law](https://medium.com/@jason_90344/utterly-unpersuasive-formal-methods-and-law-bb8ecf048374)
 
 Discussion Topic: 	“Better Rules” - Writing Laws Differently  
 Tool Survey: 		Machine Learning in eDiscovery (TBD)  
@@ -161,9 +161,8 @@ Technical Learning:	Assignment 4
 
 Required Reading: 	
 
-* Matt Dunn, Levent Sagun, Hale Şirin, and Daniel Chen. 2017. Early Predictability of Asylum Court Decisions. In Proceedings of ICAIL ’17, London, United Kingdom, June 12-16, 2017, 4 pages.
-https://doi.org/10.1145/3086512.3086537
-* https://harpers.org/archive/2018/01/the-digital-poorhouse/
+* [Early Predictability of Asylum Court Decisions](https://doi.org/10.1145/3086512.3086537)
+* [The Digital Poorhouse](https://harpers.org/archive/2018/01/the-digital-poorhouse/)
 
 Discussion Topic: 	Automated Legal Reasoning and Bias  
 Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
@@ -171,7 +170,7 @@ Technical Learning:	Assignment 5
 
 ### Class 6 - October 11, 2019
 
-Required Reading: 	Lauritsen, Steenhuis
+Required Reading: 	Lauritsen, Steenhuis (Link to be provided)
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
 Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
 Technical Learning:	Assignment 6  
@@ -181,8 +180,8 @@ Iron Tech Lawyer Invitational: If any final projects would like to be considered
 ### Class 7 - October 18, 2019
 
 Required Reading:
-* Draft Report on Privacy in Legal Apps From Ontario Privacy Commissioner (electronic access will be provided)
-* Paper on the Report Writing Process (link)
+* Report on Privacy in Legal Apps From Ontario Privacy Commissioner (tentatively)
+* Paper on the Report Writing Process (tentatively)
 
 Discussion Topic: 	Privacy and Automated Legal Services  
 Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)  
@@ -199,9 +198,9 @@ Technical Learning:	Assignment 8
 ### Class 9 - November 1, 2019
 
 Required Reading: 	
-* List of US States that Have Adopted A Duty of Technical Competence
-* A Duty To Be Technologically Competent: Coming Soon…
-* Consultation Report (See proposed change to [5A] in Appendix A)
+* [List of US States that Have Adopted A Duty of Technical Competence](https://www.lawsitesblog.com/tech-competence)
+* [A Duty To Be Technologically Competent: Coming Soon…](http://www.slaw.ca/2017/04/12/a-duty-to-be-technologically-competent-coming-soon-to-a-professional-code-of-conduct-near-you/)
+* [Federation of Law Societies of Canada Consultation Report](https://flsc.ca/wp-content/uploads/2014/10/Consultation-Report-Draft-Model-Code-Amendments-for-web-Jan2017-FINAL.pdf) (See proposed change to [5A] in Appendix A)
 Discussion Topic: 	The Professional Duty of Technical Competence  
 Tool Survey: 		Natural Language Processing (LexNLP)  
 Technical Learning:	Assignment 9  
@@ -255,10 +254,10 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 * Have the interview ask the use for their name, and then ask the names of all the people with whom the user lives, with that information going into the DAList object.
 * Using the “generic object modifier”, create a single question block in your interview file that modifies how all names are requested.
 * Add screens to your interview that request information with different interfaces:
-* A Yes/No question using the “yesno” modifier
-* A multiple-choice field that allows the user to select more than one option.
-* A mutliple-choice field that allows the user to select only one option.
-* A signature.
+    * A Yes/No question using the “yesno” modifier
+    * A multiple-choice field that allows the user to select more than one option.
+    * A mutliple-choice field that allows the user to select only one option.
+    * A signature.
 * Install that interview on your Docassemble server.
 * Publish the interview to GitHub
 * Forward the publicly-accessible links to the interview and the GitHub repository to the instructor.
@@ -266,10 +265,10 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 ### Assignment 3 - Document Automation
 * In Docassemble create a document template for an advice memo in the templates section of the playground.
 * The template should, at a minimum,
-* use the user’s name,
-* output the list of family members in a grammatically correct way, and 
-* Display one of two paragraphs of text based on the basis of the value of a true or false variable from the interview that indicates whether or not the user is entitled to legal aid services.
-* Display the same date value in at least two different formats.
+    * use the user’s name,
+    * output the list of family members in a grammatically correct way, and 
+    * Display one of two paragraphs of text based on the basis of the value of a true or false variable from the interview that indicates whether or not the user is entitled to legal aid services.
+    * Display the same date value in at least two different formats.
 * Add this template as a mandatory screen in your interview, so that the document is generated and presented to the user for download in the last screen of the interview.
 * Save the interview, including the template file, to a package. Install that package on your docassemble server.
 * Publish the package to GitHub.
@@ -277,18 +276,18 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 
 ### Assignment 4 - Encoding Rules
 * Modify your interview to request the following yes/no pieces of information:
-* Does the user have a lawyer?
-* Can the user afford a lawyer?
-* If the client has a lawyer, is that lawyer still acting for the user?
-* Is the user’s legal matter located in Alberta?
-* Is the user’s legal matter a family law matter?
-* Is the user’s legal matter a criminal law matter?
-* Does the user live in Alberta?
-* Is the user’s matter an appeal of a matter for which the user received LAA assistance?
+    * Does the user have a lawyer?
+    * Can the user afford a lawyer?
+    * If the client has a lawyer, is that lawyer still acting for the user?
+    * Is the user’s legal matter located in Alberta?
+    * Is the user’s legal matter a family law matter?
+    * Is the user’s legal matter a criminal law matter?
+    * Does the user live in Alberta?
+    * Is the user’s matter an appeal of a matter for which the user received LAA assistance?
 * Using the answers to those questions, and based on the policies of Legal Aid Alberta, create 3 or more “code” blocks in your interview which will set the value of these yes/no variables (one per block):
-* Does the user meet the requirements of being unrepresented?
-* Does the user meet the residency requirements?
-* Does the user meet the service eligibility requirements generally?
+    * Does the user meet the requirements of being unrepresented?
+    * Does the user meet the residency requirements?
+    * Does the user meet the service eligibility requirements generally?
 * Modify your template to inform the user of all the information that they entered, and to include one of two different paragraphs based on the calculated result about service eligibility.
 * Modify the interview so that questions that do not apply to the user are not asked.
 * Save the interview, including the template file, to a package. Install that package on your docassemble server.
@@ -298,9 +297,9 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 ### Assignment 5 - Custom Objects
 * In the modules section of Docassemble, create a module called LAAIndividual.py.
 * Following the instructions in the docassemble documentation at https://docassemble.org/docs/objects.html#extending, create a “LAAIndividual” object type that adds the following three fields to the generic Individual object type:
-* Assets
-* Income (Annually)
-* Income (last 30 days)
+    * Assets
+    * Income (Annually)
+    * Income (last 30 days)
 * Reimplement your interview using your LAAIndividual object type instead of Docassemble’s Individual type.
 * Using the “complete attribute” technique, cause the interview to ask for those three values for each person added to the interview, on a separate screen, after the person’s name has been entered.
 * Using code blocks, have the interview calculate the user’s financial eligibility as either “eligible”, “marginally eligible”, or “ineligible”, and provide that information in the template at the end of the interview.
