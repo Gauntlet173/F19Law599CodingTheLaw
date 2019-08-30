@@ -170,7 +170,7 @@ Technical Learning:	Assignment 5
 
 ### Class 6 - October 11, 2019
 
-Required Reading: 	Lauritsen, Steenhuis (Link to be provided)
+Required Reading: 	Lauritsen, Steenhuis (Link to be provided)  
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
 Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
 Technical Learning:	Assignment 6  
@@ -197,10 +197,12 @@ Technical Learning:	Assignment 8
 
 ### Class 9 - November 1, 2019
 
-Required Reading: 	
+Required Reading:
+
 * [List of US States that Have Adopted A Duty of Technical Competence](https://www.lawsitesblog.com/tech-competence)
 * [A Duty To Be Technologically Competent: Coming Soon…](http://www.slaw.ca/2017/04/12/a-duty-to-be-technologically-competent-coming-soon-to-a-professional-code-of-conduct-near-you/)
 * [Federation of Law Societies of Canada Consultation Report](https://flsc.ca/wp-content/uploads/2014/10/Consultation-Report-Draft-Model-Code-Amendments-for-web-Jan2017-FINAL.pdf) (See proposed change to [5A] in Appendix A)
+
 Discussion Topic: 	The Professional Duty of Technical Competence  
 Tool Survey: 		Natural Language Processing (LexNLP)  
 Technical Learning:	Assignment 9  
