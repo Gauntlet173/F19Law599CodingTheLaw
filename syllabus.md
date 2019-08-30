@@ -1,9 +1,9 @@
 # Syllabus
-# Law599 A13 - Coding the Law, Fall 2019
-# University of Alberta Faculty of Law
-# Jason Morris, BA, LLB, LLM (almost)
-# 9:00am-11:50am Fridays
-# Room: LC 448
+**Law599 A13 - Coding the Law, Fall 2019  
+University of Alberta Faculty of Law  
+Jason Morris, BA, LLB, LLM (almost)  
+9:00am-11:50am Fridays  
+Room: LC 448**
 
 ## Course Objectives
 Law is not immune to the technological changes that are occurring in the rest of society. As has happened in every other sector of the economy, globalization and technology will result in an increased automation of legal services. Indeed, because of the severity of the access to justice problem in Canada and other jurisdictions, the impetus to automate legal services is stronger than in many areas.
@@ -78,19 +78,20 @@ In addition to building the automated legal service, the students will be requir
 The project will consist of three parts, which will be evaluated according to the following rubric:
 
 1. Project Design Specifications (20% of project mark)
-  The students will be asked to generate a project design specifications document in collaboration with their client organization. This document will be assessed for its professionalism, the degree to which it reflects the needs of the client, the degree to which it considers and addresses relevant professionalism cocnerns, and the degree to which it reflects an undersatnding of the capabilities of the selected technology.
 
-  After the specifications are submitted, they will be approved or amended as necessary by the instructor, and the approved or amended specifications will guide the evaluation of the project implementation.
+The students will be asked to generate a project design specifications document in collaboration with their client organization. This document will be assessed for its professionalism, the degree to which it reflects the needs of the client, the degree to which it considers and addresses relevant professionalism cocnerns, and the degree to which it reflects an undersatnding of the capabilities of the selected technology.
+
+After the specifications are submitted, they will be approved or amended as necessary by the instructor, and the approved or amended specifications will guide the evaluation of the project implementation.
 
 
 2. Project Implementation (60% of project mark)
 
-  The students will create the actual tool, and publish the source code for that tool to GitHub with a link to a web-accessible demonstration. The tool will be assessed for the degree to which it adheres to best practices discussed in the course, its usability, the degree to which it adheres to the design specifications, correctly implements the capabilities of the technology, and accomplishes the objectives of the project.
+The students will create the actual tool, and publish the source code for that tool to GitHub with a link to a web-accessible demonstration. The tool will be assessed for the degree to which it adheres to best practices discussed in the course, its usability, the degree to which it adheres to the design specifications, correctly implements the capabilities of the technology, and accomplishes the objectives of the project.
 
 
 3. Project Pitch (20% of project mark)
 
-  The students will be asked to give an interactive demonstration and proposal for the adoption of their tool in the client organization.  This presentation will be no longer than 20 minutes.  The presentation will be assessed for its professionalism, the degree to which it anticipates the needs and concerns of the client organization and ultimate users of the tool, and substantively addresses those needs and concerns.
+The students will be asked to give an interactive demonstration and proposal for the adoption of their tool in the client organization.  This presentation will be no longer than 20 minutes.  The presentation will be assessed for its professionalism, the degree to which it anticipates the needs and concerns of the client organization and ultimate users of the tool, and substantively addresses those needs and concerns.
 
 At the discretion of the instructor, and with the agreement of appropriate representatives of a legal services organization, students may opt to design a tool for a specific organization in the Edmonton region. If they do so, they will be expected to involve that organization in the design of the tool, and will be allowed to have representatives of that organization attend the “pitch”. Students interested in pursuing this option will be required to propose such a project, and obtain the agreement of the organization to participate, by the date of class 6.
 
@@ -113,106 +114,104 @@ The following schedule is tentative, and subject to change.  The technical learn
 
 ### Class 1 - September 6, 2019
 
-Required Reading: 	None
-Discussion Topic: 	Introduction to the Course, Critical Resources
-Tool Survey: 		Docassemble, GitHub
+Required Reading: 	None  
+Discussion Topic: 	Introduction to the Course, Critical Resources  
+Tool Survey: 		Docassemble, GitHub  
 Technical Learning:	Assignment 1
 
 ### Class 2 - September 13, 2019
 
-Required Reading: 
-The Open Source Definition
-The Montreal Declaration on Open Access to Law
-How I Changed the Law with a GitHub Pull Request
-Legal Tech For a Change
-Discussion Topic: 	Open-Source and Access to Justice
-Tool Survey: 		Automated Document Generation (Docassemble, HotDocs, WebMerge, 
-etc.)
+Required Reading:
+
+* The Open Source Definition
+* The Montreal Declaration on Open Access to Law
+* How I Changed the Law with a GitHub Pull Request
+* Legal Tech For a Change
+
+Discussion Topic: 	Open-Source and Access to Justice  
+Tool Survey: 		Automated Document Generation (Docassemble, HotDocs, WebMerge, etc.)  
 Technical Learning:	Assignment 2
 
 ### Class 3 - September 20, 2019
 
 Required Reading: 	
-Innovating Regulation (Chapter II and Chapter VI)
-The Coming End of Lawyer Control Over Legal Regulation
-California Bar Seeks Comments on ATILS Report
-Alberta Law Society's Bid to Modernize Hits Roadblock
-Discussion Topic:	Regulatory Impacts on Legal Innovation
-Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation 
-as a Platform, Neota Logic, etc.)
+
+* Innovating Regulation (Chapter II and Chapter VI)
+* The Coming End of Lawyer Control Over Legal Regulation
+* California Bar Seeks Comments on ATILS Report
+* Alberta Law Society's Bid to Modernize Hits Roadblock
+
+Discussion Topic:	Regulatory Impacts on Legal Innovation  
+Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation as a Platform, Neota Logic, etc.)  
 Technical Learning:	Assignment 3
 
 ### Class 4 - September 27, 2019
 
-Required Reading: 
-The Better Rules Landscape
-NZ Better Rules for Government Discovery Report
-Utterly Unpersuasive - Formal Methods and Law
-Discussion Topic: 	“Better Rules” - Writing Laws Differently
-Speaker: 		
-Tool Survey: 		Machine Learning in eDiscovery (TBD)
+Required Reading:
+
+* The Better Rules Landscape
+* NZ Better Rules for Government Discovery Report
+* Utterly Unpersuasive - Formal Methods and Law
+
+Discussion Topic: 	“Better Rules” - Writing Laws Differently  
+Tool Survey: 		Machine Learning in eDiscovery (TBD)  
 Technical Learning:	Assignment 4
 
 ### Class 5 - October 4, 2019
 
 Required Reading: 	
-Matt Dunn, Levent Sagun, Hale Şirin, and Daniel Chen. 2017. Early Predictability of Asylum Court Decisions. In Proceedings of ICAIL ’17, London, United Kingdom, June 12-16, 2017, 4 pages.
+
+* Matt Dunn, Levent Sagun, Hale Şirin, and Daniel Chen. 2017. Early Predictability of Asylum Court Decisions. In Proceedings of ICAIL ’17, London, United Kingdom, June 12-16, 2017, 4 pages.
 https://doi.org/10.1145/3086512.3086537
-https://harpers.org/archive/2018/01/the-digital-poorhouse/
-Discussion Topic: 	Automated Legal Reasoning and Bias
-Speaker: 		Professor Jennifer Raso (invited, not confirmed)
-Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)
+* https://harpers.org/archive/2018/01/the-digital-poorhouse/
+
+Discussion Topic: 	Automated Legal Reasoning and Bias  
+Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
 Technical Learning:	Assignment 5
 
 ### Class 6 - October 11, 2019
 
-Required Reading: 	TBD
-			
-Discussion Topic: 	Regulating the Quality of Automated Legal Services
-Speaker: 		Kent Teskey (invited, not confirmed)
-Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, 
-Blawx, etc.)
-Technical Learning:	Assignment 6
-Project: 		Proposals for projects involving third-party customers must be received by 
-the end of this class for approval by the instructor.
-Iron Tech Lawyer Invitational:
-If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
+Required Reading: 	Lauritsen, Steenhuis
+Discussion Topic: 	Regulating the Quality of Automated Legal Services  
+Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
+Technical Learning:	Assignment 6  
+Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
+Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
 
 ### Class 7 - October 18, 2019
 
 Required Reading:
-Draft Report on Privacy in Legal Apps From Ontario Privacy Commissioner (electronic access will be provided)
-Paper on the Report Writing Process (link)
-Discussion Topic: 	Privacy and Automated Legal Services
-Speaker: 		Amy Salazar (invited, not confirmed)
-Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)
-Technical Learning: 	Assignment 7
+* Draft Report on Privacy in Legal Apps From Ontario Privacy Commissioner (electronic access will be provided)
+* Paper on the Report Writing Process (link)
+
+Discussion Topic: 	Privacy and Automated Legal Services  
+Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)  
+Technical Learning: 	Assignment 7  
 Project: 		Students groups will be determined by the end of this class.
 
 ### Class 8 - October 25, 2019
 
-Required Reading: 	TBD
-Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services
-Tool Survey: 		Ontologies for Legal Service Automation (TBD)
+Required Reading: 	TBD  
+Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
+Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)  
 Technical Learning:	Assignment 8
 
 ### Class 9 - November 1, 2019
 
 Required Reading: 	
-List of US States that Have Adopted A Duty of Technical Competence
-A Duty To Be Technologically Competent: Coming Soon…
-Consultation Report (See proposed change to [5A] in Appendix A)
-Discussion Topic: 	The Professional Duty of Technical Competence
-Tool Survey: 		Natural Language Processing (LexNLP)
-Technical Learning:	Assignment 9
+* List of US States that Have Adopted A Duty of Technical Competence
+* A Duty To Be Technologically Competent: Coming Soon…
+* Consultation Report (See proposed change to [5A] in Appendix A)
+Discussion Topic: 	The Professional Duty of Technical Competence  
+Tool Survey: 		Natural Language Processing (LexNLP)  
+Technical Learning:	Assignment 9  
 Project: 		Design Specifications due by the end of this class.
 
 ### Class 10 - November 8, 2019
 
-Required Reading: 	TBD
-Discussion Topic: 	Legal Education and Legal Innovation
-Speaker: 		Cat Moon (invited, not confirmed)
-Tool Survey: 		Formal Verification Techniques (L4, TBD)
+Required Reading: 	TBD  
+Discussion Topic: 	Legal Education and Legal Innovation  
+Tool Survey: 		Formal Verification Techniques (L4, TBD)  
 Technical Learning:	Assignment 10
 
 ### Class 11 - “Hackathon” - November 15, 2019
