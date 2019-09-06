@@ -159,7 +159,8 @@ Required Reading:
 
 Discussion Topic: 	“Better Rules” - Writing Laws Differently  
 Tool Survey: 		Machine Learning in eDiscovery (TBD)  
-Technical Learning:	Assignment 4
+Technical Learning:	Assignment 4  
+Project: 		Students groups will be determined by the end of this class.
 
 ### Class 5 - October 11, 2019
 
@@ -171,6 +172,8 @@ Required Reading:
 Discussion Topic: 	Automated Legal Reasoning and Bias  
 Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
 Technical Learning:	Assignment 5
+Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
+Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
 
 ### Class 6 - October 18, 2019
 
@@ -178,8 +181,7 @@ Required Reading: 	Lauritsen, Steenhuis (Link to be provided)
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
 Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
 Technical Learning:	Assignment 6  
-Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
-Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
+
 
 ### Class 7 - October 25, 2019
 
@@ -190,14 +192,15 @@ Required Reading:
 Discussion Topic: 	Privacy and Automated Legal Services  
 Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)  
 Technical Learning: 	Assignment 7  
-Project: 		Students groups will be determined by the end of this class.
+
 
 ### Class 8 - November 1, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
 Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)  
-Technical Learning:	Assignment 8
+Technical Learning:	Assignment 8  
+Project: 		Design Specifications due by the end of this class.
 
 ### Class 9 - November 8, 2019
 
@@ -210,7 +213,7 @@ Required Reading:
 Discussion Topic: 	The Professional Duty of Technical Competence  
 Tool Survey: 		Natural Language Processing (LexNLP)  
 Technical Learning:	Assignment 9  
-Project: 		Design Specifications due by the end of this class.
+
 
 ### Class 10 - November 15, 2019
 
