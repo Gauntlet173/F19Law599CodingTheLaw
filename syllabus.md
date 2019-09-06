@@ -361,3 +361,27 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 * Save the interview, including the template file, modules, case-based reasoner database file, and machine learning dataset, to a package. Indicate in the package that it is dependent on docassemble-openlcbr. Install that package on your docassemble server.
 * Publish the package to GitHub.
 * Provide your instructor with the addresses for your published interview and repository.
+
+
+# General
+
+## University Policy on Course Outlines
+Policy about course outlines can be found in §23.4(2) of the University Calendar.
+
+## Academic Integrity
+The University of Alberta is committed
+to the highest standards of academic integrity and honesty. Students are expected to be familiar
+with these standards regarding academic honesty and to uphold the policies of the University in this
+respect. Students are particularly urged to familiarize themselves with the provisions of the Code of
+Student Behaviour (online at www.governance.ualberta.ca) and avoid any behaviour which could
+potentially result in suspicions of cheating, plagiarism, misrepresentation of facts and/or
+participation in an offence. Academic dishonesty is a serious offence and can result in suspension or
+expulsion from the University.
+
+
+## Audio-Visual Recording
+Audio or video recording of lectures,
+labs, seminars or any other teaching environment by students is allowed only with the prior
+written consent of the instructor or as a part of an approved accommodation plan. Recorded
+material is to be used solely for personal study, and is not to be used or distributed for any other
+purpose without prior written consent from the instructor.
