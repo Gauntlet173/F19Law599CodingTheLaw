@@ -59,6 +59,8 @@ All mandatory course work will be done in Docassemble, which is available for fr
 
 Other tools will be surveyed that are available for educational use at no charge. Students who are interested in obtaining practical experience with those tools may find that hardware or operating restrictions apply to those pieces of software. Students will have the option of choosing a tool other than Docassemble for implementing the main project, with the prior approval of the instructor, in which case the student will need to provide hardware and software compatible with that product and the tools used for evaluation.
 
+**Pleae be aware that the exam period for the Winter 2020 semester is April 16 to April 24, 2020, and the Invitational happens on April 17. Depending on your courses, the date of the Invitational may conflict with your final exams.**
+
 ## Required Technology Experience
 
 The course assumes a basic level of comfort with desktop computing software, and the use of the Internet through web browsers. **There is no expectation or requirement that a student will have prior programming experience.** It is intended that a student with no prior programming experience, but a willingness to experiment and learn, can excel in this course. It is also intended that a student with significant prior programming experience will have the opportunity to expand their understanding of and experience with those tools and others.
@@ -119,7 +121,9 @@ Discussion Topic: 	Introduction to the Course, Critical Resources
 Tool Survey: 		Docassemble, GitHub  
 Technical Learning:	Assignment 1
 
-### Class 2 - September 13, 2019
+### September 13, 2019 - No Class, Career Day
+
+### Class 2 - September 20, 2019
 
 Required Reading:
 
@@ -132,7 +136,7 @@ Discussion Topic: 	Open-Source and Access to Justice
 Tool Survey: 		Automated Document Generation (Docassemble, HotDocs, WebMerge, etc.)  
 Technical Learning:	Assignment 2
 
-### Class 3 - September 20, 2019
+### Class 3 - September 27, 2019
 
 Required Reading: 	
 
@@ -145,7 +149,7 @@ Discussion Topic:	Regulatory Impacts on Legal Innovation
 Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation as a Platform, Neota Logic, DataLex, Blawx, etc.)  
 Technical Learning:	Assignment 3
 
-### Class 4 - September 27, 2019
+### Class 4 - October 4, 2019
 
 Required Reading:
 
@@ -157,7 +161,7 @@ Discussion Topic: 	“Better Rules” - Writing Laws Differently
 Tool Survey: 		Machine Learning in eDiscovery (TBD)  
 Technical Learning:	Assignment 4
 
-### Class 5 - October 4, 2019
+### Class 5 - October 11, 2019
 
 Required Reading: 	
 
@@ -168,7 +172,7 @@ Discussion Topic: 	Automated Legal Reasoning and Bias
 Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
 Technical Learning:	Assignment 5
 
-### Class 6 - October 11, 2019
+### Class 6 - October 18, 2019
 
 Required Reading: 	Lauritsen, Steenhuis (Link to be provided)  
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
@@ -177,7 +181,7 @@ Technical Learning:	Assignment 6
 Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
 Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
 
-### Class 7 - October 18, 2019
+### Class 7 - October 25, 2019
 
 Required Reading:
 * Report on Privacy in Legal Apps From Ontario Privacy Commissioner (tentatively)
@@ -188,14 +192,14 @@ Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)
 Technical Learning: 	Assignment 7  
 Project: 		Students groups will be determined by the end of this class.
 
-### Class 8 - October 25, 2019
+### Class 8 - November 1, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
 Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)  
 Technical Learning:	Assignment 8
 
-### Class 9 - November 1, 2019
+### Class 9 - November 8, 2019
 
 Required Reading:
 
@@ -208,24 +212,21 @@ Tool Survey: 		Natural Language Processing (LexNLP)
 Technical Learning:	Assignment 9  
 Project: 		Design Specifications due by the end of this class.
 
-### Class 10 - November 8, 2019
+### Class 10 - November 15, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Legal Education and Legal Innovation  
 Tool Survey: 		Formal Verification Techniques (L4, TBD)  
 Technical Learning:	Assignment 10
 
-### Class 11 - “Hackathon” - November 15, 2019
 
-This class will be set aside to allow students to complete, perfect, and if possible expand the capabilities of their major projects in a fun, collaborative, “hackathon” environment.
-
-### Class 12 - “Pitches” - November 22, 2019
+### Class 11 - “Pitches” - November 22, 2019
 
 Project: All major projects must be submitted to the instructor electronically in their final version by the start of this class.
 
 This class will be reserved for students to make their final project presentations.
 
-### Class 13 - No Class - November 29, 2019
+### November 29, 2019 - No Class
 
 ## Technical Learning Resources
 
