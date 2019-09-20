@@ -121,9 +121,7 @@ Discussion Topic: 	Introduction to the Course, Critical Resources
 Tool Survey: 		Docassemble, GitHub  
 Technical Learning:	Assignment 1
 
-### September 13, 2019 - No Class, Career Day
-
-### Class 2 - September 20, 2019
+### Class 2 - September 13, 2019
 
 Required Reading:
 
@@ -136,7 +134,7 @@ Discussion Topic: 	Open-Source and Access to Justice
 Tool Survey: 		Automated Document Generation (Docassemble, HotDocs, WebMerge, etc.)  
 Technical Learning:	Assignment 2
 
-### Class 3 - September 27, 2019
+### Class 3 - September 20, 2019 
 
 Required Reading: 	
 
@@ -149,7 +147,7 @@ Discussion Topic:	Regulatory Impacts on Legal Innovation
 Tool Survey: 		Rules-Based Artificial Intelligence (Oracle Policy Automation, Regulation as a Platform, Neota Logic, DataLex, Blawx, etc.)  
 Technical Learning:	Assignment 3
 
-### Class 4 - October 4, 2019
+### Class 4 - September 27, 2019 
 
 Required Reading:
 
@@ -162,7 +160,7 @@ Tool Survey: 		Machine Learning in eDiscovery (TBD)
 Technical Learning:	Assignment 4  
 Project: 		Students groups will be determined by the end of this class.
 
-### Class 5 - October 11, 2019
+### Class 5 - October 4, 2019
 
 Required Reading: 	
 
@@ -172,18 +170,18 @@ Required Reading:
 Discussion Topic: 	Automated Legal Reasoning and Bias  
 Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
 Technical Learning:	Assignment 5
-Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
-Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
 
-### Class 6 - October 18, 2019
+
+### Class 6 - October 11, 2019
 
 Required Reading: 	Lauritsen, Steenhuis (Link to be provided)  
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
 Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
 Technical Learning:	Assignment 6  
+Project: 		Proposals for projects involving third-party customers must be received by the end of this class for approval by the instructor.  
+Iron Tech Lawyer Invitational: If any final projects would like to be considered for submission to the Georgetown Iron Tech Lawyer Invitational, I must know by the end of this class.
 
-
-### Class 7 - October 25, 2019
+### Class 7 - October 18, 2019
 
 Required Reading:
 * Report on Privacy in Legal Apps From Ontario Privacy Commissioner (tentatively)
@@ -194,15 +192,14 @@ Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)
 Technical Learning: 	Assignment 7  
 
 
-### Class 8 - November 1, 2019
+### Class 8 - October 25, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
 Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)  
 Technical Learning:	Assignment 8  
-Project: 		Design Specifications due by the end of this class.
 
-### Class 9 - November 8, 2019
+### Class 9 - November 1, 2019
 
 Required Reading:
 
@@ -213,9 +210,10 @@ Required Reading:
 Discussion Topic: 	The Professional Duty of Technical Competence  
 Tool Survey: 		Natural Language Processing (LexNLP)  
 Technical Learning:	Assignment 9  
+Project: 		Design Specifications due by the end of this class.
 
 
-### Class 10 - November 15, 2019
+### Class 10 - November 8, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Legal Education and Legal Innovation  
@@ -223,7 +221,11 @@ Tool Survey: 		Formal Verification Techniques (L4, TBD)
 Technical Learning:	Assignment 10
 
 
-### Class 11 - “Pitches” - November 22, 2019
+### Class 11 - November 15, 2019
+
+Hackathon.
+
+### Class 12 - “Pitches” - November 22, 2019
 
 Project: All major projects must be submitted to the instructor electronically in their final version by the start of this class.
 
@@ -296,6 +298,7 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
     * Does the user meet the service eligibility requirements generally?
 * Modify your template to inform the user of all the information that they entered, and to include one of two different paragraphs based on the calculated result about service eligibility.
 * Modify the interview so that questions that do not apply to the user are not asked.
+* Modify the interview so that only one question or code block is marked as mandatory. See sections 1 aand 2 of https://docassemble.org/docs/logic.html for guidance. 
 * Save the interview, including the template file, to a package. Install that package on your docassemble server.
 * Publish the package to GitHub.
 * Provide your instructor with the addresses for your published interview and repository.
