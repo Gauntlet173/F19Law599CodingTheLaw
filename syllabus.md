@@ -156,7 +156,7 @@ Required Reading:
 * [Utterly Unpersuasive - Formal Methods and Law](https://medium.com/@jason_90344/utterly-unpersuasive-formal-methods-and-law-bb8ecf048374)
 
 Discussion Topic: 	“Better Rules” - Writing Laws Differently  
-Tool Survey: 		Machine Learning in eDiscovery (TBD)  
+Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
 Technical Learning:	Assignment 4  
 Project: 		Students groups will be determined by the end of this class.
 
@@ -166,9 +166,10 @@ Required Reading:
 
 * [Early Predictability of Asylum Court Decisions](https://doi.org/10.1145/3086512.3086537)
 * [The Digital Poorhouse](https://harpers.org/archive/2018/01/the-digital-poorhouse/)
+* [Algorithms of Oppression](https://listen.datasociety.net/algorithms-of-oppression/)
 
 Discussion Topic: 	Automated Legal Reasoning and Bias  
-Tool Survey:		Legal Interview Tools (Docassemble, QnA, A2JAuthor, etc.)  
+Tool Survey: 		Machine Learning in eDiscovery (TBD)  
 Technical Learning:	Assignment 5
 
 
