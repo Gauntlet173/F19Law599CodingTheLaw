@@ -175,7 +175,7 @@ Technical Learning:	Assignment 5
 
 ### Class 6 - October 11, 2019
 
-Required Reading: 	Lauritsen, Steenhuis (Link to be provided)  
+Required Reading: 	[Substantive Legal Software Quality: A Gathering Storm?](http://delivery.acm.org/10.1145/3330000/3326706/p52-lauritsen.pdf?ip=142.244.5.174&id=3326706&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2EE7ED0E691902343F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1570231240_3dd3c719bf0b938c88c55623a42c8ef7)  
 Discussion Topic: 	Regulating the Quality of Automated Legal Services  
 Tool Survey: 		Declarative Logic Programming Languages (Flora-2/ErgoAI, Accord Ergo, Blawx, etc.)  
 Technical Learning:	Assignment 6  
