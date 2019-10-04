@@ -185,8 +185,8 @@ Iron Tech Lawyer Invitational: If any final projects would like to be considered
 ### Class 7 - October 18, 2019
 
 Required Reading:
-* Report on Privacy in Legal Apps From Ontario Privacy Commissioner (tentatively)
-* Paper on the Report Writing Process (tentatively)
+* [Improving Privacy Practices for Legal Apps:  A Best Practices Guide](https://commonlaw.uottawa.ca/sites/commonlaw.uottawa.ca/files/opc_contributions_program_salyzyn_et_al_best_practices_guide_march_2019.pdf)
+* [Developing Privacy Best Practices for Direct-to-Public Legal Apps: Observations and Lessons Learned](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3464400)
 
 Discussion Topic: 	Privacy and Automated Legal Services  
 Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)  
