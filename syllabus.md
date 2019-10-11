@@ -306,13 +306,15 @@ You are free to pursue these at your own pace. They are scheduled to ensure that
 
 ### Assignment 5 - Custom Objects
 * In the modules section of Docassemble, create a module called LAAIndividual.py.
-* Following the instructions in the docassemble documentation at https://docassemble.org/docs/objects.html#extending, create a “LAAIndividual” object type that adds the following three fields to the generic Individual object type:
+* Following the instructions in the docassemble documentation at https://docassemble.org/docs/objects.html#extending, create a “LAAIndividual” object type that adds the following three attributes to the generic Individual object type:
     * Assets
     * Income (Annually)
     * Income (last 30 days)
+* These three attributes should be given the object type `Value` from Docassemble.
 * Reimplement your interview using your LAAIndividual object type instead of Docassemble’s Individual type.
-* Using the “complete attribute” technique, cause the interview to ask for those three values for each person added to the interview, on a separate screen, after the person’s name has been entered.
-* Using code blocks, have the interview calculate the user’s financial eligibility as either “eligible”, “marginally eligible”, or “ineligible”, and provide that information in the template at the end of the interview.
+* Using the “complete attribute” technique, cause the interview to ask for those three values for each person added to the interview, on a separate screen, after the person’s name has been entered. This will involve asking for, as an example, `person[i].assets.value`.
+* Using code blocks, have the interview calculate the user’s financial eligibility as either “eligible”, “marginally eligible”, or “ineligible”, and provide that information in the template at the end of the interview.  The details of Legal Aid Alberta's policies
+for financial eligibility can be accessed at [this link](https://www.legalaid.ab.ca/information-resources/Pages/Rules-and-Policies.aspx).
 * Save the interview, including the template file and module, to a package. Install that package on your docassemble server.
 * Publish the package to GitHub.
 * Provide your instructor with the addresses for your published interview and repository.
