@@ -195,7 +195,7 @@ Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)
 ### Class 8 - October 25, 2019
 
 Required Reading:
-* [Understanding Success Criterion 3.1.5](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
+* [Law Firm Accessibility Standards](https://lawyerist.com/client-service/accessibility-standards/)
 * [Docassemble Accessibility Documentation](https://docassemble.org/docs/accessibility.html)
 
 Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
