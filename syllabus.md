@@ -190,15 +190,13 @@ Required Reading:
 
 Discussion Topic: 	Privacy and Automated Legal Services  
 Tool Survey: 		Case-Based Legal Reasoning (docassemble-openlcbr)  
-Technical Learning: 	Assignment 7  
 
 
 ### Class 8 - October 25, 2019
 
 Required Reading: 	TBD  
 Discussion Topic: 	Accessibility, Diversity, and Inclusion in Automated Legal Services  
-Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)  
-Technical Learning:	Assignment 8  
+Tool Survey: 		Ontologies for Legal Service Automation (OWL, Protege, LKIF, etc.)
 
 ### Class 9 - November 1, 2019
 
@@ -210,16 +208,18 @@ Required Reading:
 
 Discussion Topic: 	The Professional Duty of Technical Competence  
 Tool Survey: 		Natural Language Processing (LexNLP)  
-Technical Learning:	Assignment 9  
 Project: 		Design Specifications due by the end of this class.
 
 
 ### Class 10 - November 8, 2019
 
-Required Reading: 	TBD  
+Required Reading: 	
+
+* [How to save the lawyer development system](https://www.law21.ca/2019/08/how-to-save-the-lawyer-development-system/)
+* [What is the Delta Model?](https://www.youtube.com/watch?v=Y9I2gQHvJEM)
+
 Discussion Topic: 	Legal Education and Legal Innovation  
 Tool Survey: 		Formal Verification Techniques (L4, TBD)  
-Technical Learning:	Assignment 10
 
 
 ### Class 11 - November 15, 2019
@@ -331,46 +331,6 @@ for financial eligibility can be accessed at [this link](https://www.legalaid.ab
 * Publish the package to GitHub.
 * Provide your instructor with the addresses for your published interview and repository.
 * Run the interview once as a user, so that the approval message will go to the instructor.
-
-### Assignment 7 - Case-Based Reasoning
-* Install docassemble-openlcbr on your docassemble server.
-* You will be provided with a description of a legal issue, and a set of cases in which that issue was decided.
-* Using the database builder included with docassemble-openlcbr, enter the factors, cases, and legal issues as described.
-* Modify the database, without adding or removing cases, until it has coverage and accuracy of greater than 75%.
-* Implement the reasoner in your interview, and include an explanation for its conclusions in the interview.
-* Save the interview, including the template file, module, and case-based reasoner database file, to a package. Indicate in the package that it is dependent on docassemble-openlcbr. Install that package on your docassemble server.
-* Publish the package to GitHub.
-* Provide your instructor with the addresses for your published interview and repository.
-* Run the interview once as a user, so that the approval message will go to the instructor.
-
-### Assignment 8 - Regular Expressions
-* You will be provided with a memo in Google Docs.
-* Create a regular expression for use in the Google Docs search function that will identify all neutral case citations in the memo.
-* Email the regular expression to your instructor.
-* You will be provided with a Google Sheets spreadsheet, where the first column is a list of file names.
-* Using one or more regular expressions in the spreadsheet, identify likely dates in the filenames, and standardize them in YYYY-MM-DD format in a different column.
-* Share the spreadsheet with your instructor.
-
-### Assignment 9 - Machine Learning
-
-* You will be provided with a list of short text answers to the question “what legal problem do you have?”
-* In your interview’s package, following the instructions at https://docassemble.org/docs/ml.html#howtouse, create a machine learning model for distinguishing between family, criminal, and civil law matters.
-* Load the provided text answers into the training set.
-* Train the model on what you think are the best answers for the training set.
-* Add a question to your interview that asks what sort of legal problem the person has, and accepts a short text answer.
-* Have your interview use the machine learning model to classify the answer before proceeding.
-* Modify the interview so that if the machine learning model gives a 90% probability about the type of legal issue the correct interview variable will be set, and when the screen for choosing a legal issue type is shown, the predicted value is already set (i.e. there is already a checkmark in the right box).
-* Save the interview, including the template file, module, case-based reasoner database file, and machine learning dataset, to a package. Indicate in the package that it is dependent on docassemble-openlcbr. Install that package on your docassemble server.
-* Publish the package to GitHub.
-* Provide your instructor with the addresses for your published interview and repository.
-
-
-### Assignment 10 - API Connectivity
-* Using the instructions at https://docassemble.org/docs/external.html#third%20party%20api and the instructions at https://docs.thecatapi.com/, create a python module for your interview that provides you with the URL for a random cat picture.
-* Implement that module in your interview, and display the cat picture to the user.
-* Save the interview, including the template file, modules, case-based reasoner database file, and machine learning dataset, to a package. Indicate in the package that it is dependent on docassemble-openlcbr. Install that package on your docassemble server.
-* Publish the package to GitHub.
-* Provide your instructor with the addresses for your published interview and repository.
 
 
 # General
