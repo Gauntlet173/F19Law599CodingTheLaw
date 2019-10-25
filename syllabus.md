@@ -324,7 +324,7 @@ for financial eligibility can be accessed at [this link](https://www.legalaid.ab
 
 ### Assignment 6 - Multi-user Interviews
 * Modify your interview so that immediately before the advice memo is generated, the user is asked to wait for approval while the advice memo is confirmed.
-* Using the multi-user interview techniques, have the interview generate the document, and send it to an email address, along with a link.
+* Using the multi-user interview techniques, have the interview generate the document, and send an email to a second user.
 * When this second user gets the email, the email should include a link to go to the interview.
 * When the second user gets to the interview, they should be presented with a screen in which they can view the document and indicate whether or not they approve of the memo.
 * Once the second user has indicated if they approve the memo or not, the original user should receive an email with a link saying that the response has been received.
